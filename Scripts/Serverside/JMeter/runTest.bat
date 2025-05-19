@@ -8,7 +8,7 @@ REM Set JMeter home directory
 set "JMETER_HOME=D:\Software\apache-jmeter-5.4.3"
 
 REM Set paths relative to current directory (cloned repository)
-set "TEST_PLAN=%CD%\ZipCar-PERF.jmx"
+set "TEST_PLAN=%CD%\Scripts\Serverside\JMeter\ZipCar-PERF.jmx"
 set "RESULT_LOG=%CD%\results.jtl"
 
 REM Validate WORKLOAD
